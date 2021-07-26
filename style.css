@@ -1,6 +1,6 @@
 body {
     background-color: bisque;
-}
+} /*will change the backgrounds color ot bisque*/
 
 .body-center {
     max-width: 450px;
@@ -11,8 +11,7 @@ body {
     background-color: sandybrown;
     padding-top: 0px;
     padding-bottom: 20px;
-    
-}
+} /*Creates a brown border*/
 
 h1 {
     text-align: center;
@@ -26,11 +25,11 @@ h2 {
     font-size: 18
 }
 
-h4 {
+h3 {
     text-align: center;
     font-family: Times New Roman;
     font-size: 18;
-}
+} 
 ul {
     margin: 0;
     padding: 0;
@@ -44,5 +43,6 @@ footer {
     background-color: sandybrown;
     text-align: center;
     margin-top: 20px;
+    height: auto;
     
-}
+} 
